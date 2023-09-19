@@ -48,6 +48,8 @@ try {
 const getStories = () => {
   return {
     './.storybook/stories/Button/Button.stories.js': require('./stories/Button/Button.stories.js'),
+    //'./.storybook/stories/SaySomething/SaySomething.stories.tsx': require('./stories/SaySomething/SaySomething.stories.tsx'),
+    './.storybook/stories/Task/Task.stories.js': require('./stories/Task/Task.stories.js'),
   };
 };
 
