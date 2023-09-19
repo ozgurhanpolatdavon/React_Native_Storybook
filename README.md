@@ -36,6 +36,10 @@ yarn start
 ```
 
 
+## Add a component to story
+
+To add a new component to story , Add the directory of new component  to **getStories** function inside **storybook.requires.js**
+
 
 
 
